@@ -1,2 +1,9 @@
-# Machine-Learning---CSE-432-
-ML
+# Machine-Learning---CSE 432
+
+MD. HABIBUL BASHAR
+
+ID: 2215151046
+
+BATCH: 51
+
+SECTION: A2
